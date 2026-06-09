@@ -1,4 +1,4 @@
-# AI Career Navigator
+## AI Job Market Navigator 
 
 An AI-powered career guidance platform for new graduates and junior developers.
 
